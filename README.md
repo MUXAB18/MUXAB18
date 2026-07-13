@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=musab-18&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MUXAB18&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -92,7 +92,7 @@
 
 <!-- Contribution Snake Animation -->
 <p align="center">
-  <img src="https://github.com/musab-18/musab-18/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/MUXAB18/MUXAB18/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!-- Bottom Wave -->
