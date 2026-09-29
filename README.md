@@ -161,6 +161,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+<a href="https://www.linkedin.com/in/musab-iftikhar/">
+<img src="https://img.shields.io/badge/LinkedIn-Musab%20Iftikhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
 <a href="mailto:musabiftikhar44@gmail.com">
 <img src="https://img.shields.io/badge/Email-musabiftikhar44@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
