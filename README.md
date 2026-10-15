@@ -4,9 +4,14 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&height=40&lines=Hi+there%2C+I'm+Musab+%F0%9F%91%8B;Full-Stack+Developer+in+the+making;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Open+to+internships+%26+collaboration+%F0%9F%9A%80" alt="Typing intro" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=MUXAB18&label=Profile%20Views&color=7B2FF7&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/MUXAB18?label=Followers&style=for-the-badge&color=00C2FF&logo=github" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-3DDC84?style=for-the-badge" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/Lahore-Pakistan-FF2E97?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lahore, Pakistan" />
 </p>
 
 <p align="center">
@@ -18,32 +23,38 @@
   <a href="#connect"><b>Connect</b></a>
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ================= ABOUT ================= -->
 <a id="about"></a>
-## 👋 About Me
+<h2 align="center">👋 About Me</h2>
 
-I'm a Software Engineering student at **Superior University, Lahore** (2023–2027) who loves building for the web. I learn best by breaking things, then fixing them better, and I'm looking for an internship where I can ship real features and grow with a team.
+<p align="center">
+  I'm a <b>Software Engineering student</b> at <b>Superior University, Lahore</b> (2023–2027) who loves building for the web.<br/>
+  I learn best by <i>breaking things, then fixing them better</i>, and I'm looking for an internship<br/>
+  where I can ship real features and grow with a team.
+</p>
+
+<p align="center">
+  <img src="assets/focus-cards.svg" alt="Focus: building full-stack projects, learning DSA and AI/ML, open to internships" width="100%"/>
+</p>
 
 <p align="center">
   <img src="assets/player-card.svg" alt="Player card: Musab Iftikhar, profile details and skill bars" width="100%"/>
 </p>
 
-| | |
-|---|---|
-| 🌍 **Based in** | Lahore, Pakistan |
-| 💻 **Building** | Real-world full-stack web projects |
-| 🔭 **Learning** | Data Structures & Algorithms, AI / ML fundamentals |
-| 💬 **Ask me about** | React, Next.js, JavaScript / TypeScript, Web Development |
-| 🤝 **Open to** | Internships & collaboration |
-| 📫 **Reach me** | [musabiftikhar44@gmail.com](mailto:musabiftikhar44@gmail.com) |
+<table align="center">
+<tr><td>🌍 <b>Based in</b></td><td>Lahore, Pakistan</td></tr>
+<tr><td>🎓 <b>Education</b></td><td>BS Software Engineering, Superior University (2023–2027)</td></tr>
+<tr><td>💬 <b>Ask me about</b></td><td>React, Next.js, JavaScript / TypeScript, Web Development</td></tr>
+<tr><td>📫 <b>Reach me</b></td><td><a href="mailto:musabiftikhar44@gmail.com">musabiftikhar44@gmail.com</a></td></tr>
+</table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ================= TECH STACK ================= -->
 <a id="tech-stack"></a>
-## 🧰 Tech Stack
+<h2 align="center">🧰 Tech Stack</h2>
 
 <table align="center">
 <tr>
@@ -72,11 +83,18 @@ I'm a Software Engineering student at **Superior University, Lahore** (2023–20
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Ask%20me%20about-React-00C2FF?style=for-the-badge&logo=react&logoColor=white" alt="Ask me about React" />
+  <img src="https://img.shields.io/badge/Ask%20me%20about-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Ask me about Next.js" />
+  <img src="https://img.shields.io/badge/Ask%20me%20about-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Ask me about TypeScript" />
+  <img src="https://img.shields.io/badge/Ask%20me%20about-DSA-7B2FF7?style=for-the-badge&logo=leetcode&logoColor=white" alt="Ask me about DSA" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ================= PROJECTS ================= -->
 <a id="projects"></a>
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <!-- TO SHOW YOUR BEST PROJECTS: replace YOUR_REPO_1 and YOUR_REPO_2 with real repo names, then delete this comment's opening line and the closing line after the block.
 
@@ -96,11 +114,11 @@ I'm a Software Engineering student at **Superior University, Lahore** (2023–20
   </a>
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ================= STATS ================= -->
 <a id="stats"></a>
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=MUXAB18&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C2FF&icon_color=7B2FF7" alt="GitHub stats" />
@@ -115,36 +133,44 @@ I'm a Software Engineering student at **Superior University, Lahore** (2023–20
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MUXAB18&theme=tokyo-night&hide_border=true&area=true&color=00C2FF&line=7B2FF7&point=FF2E97" width="95%" alt="Contribution activity graph" />
 </p>
 
-<!-- Optional: WakaTime weekly coding activity needs a WakaTime account plus the waka-readme GitHub Action to auto-update. Guide: https://github.com/athul/waka-readme -->
+<h3 align="center">🏆 Trophy Case</h3>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=MUXAB18&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
+</p>
 
-<details>
-<summary>🐍 <b>Contribution snake</b></summary>
-<br/>
+<h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MUXAB18/MUXAB18/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
-</details>
 
----
+<!-- Optional: WakaTime weekly coding activity needs a WakaTime account plus the waka-readme GitHub Action to auto-update. Guide: https://github.com/athul/waka-readme -->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ================= GOALS ================= -->
 <a id="goals"></a>
-## 🎯 Goals
+<h2 align="center">🎯 Current Goals</h2>
 
-- [x] Learn the fundamentals of Full-Stack Development
-- [ ] Master Data Structures & Algorithms
-- [ ] Build 10+ professional-grade projects
-- [ ] Contribute to Open Source
-- [ ] Learn AI & Machine Learning
-- [ ] Land a Software Engineering internship
+<table align="center">
+<tr><td>✅</td><td><b>Learn the fundamentals of Full-Stack Development</b></td></tr>
+<tr><td>🧩</td><td>Master Data Structures & Algorithms</td></tr>
+<tr><td>🏗️</td><td>Build 10+ professional-grade projects</td></tr>
+<tr><td>🌍</td><td>Contribute to Open Source</td></tr>
+<tr><td>🤖</td><td>Learn AI & Machine Learning</td></tr>
+<tr><td>💼</td><td><b>Land a Software Engineering internship</b></td></tr>
+</table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <!-- ================= CONNECT ================= -->
 <a id="connect"></a>
-## 🌐 Let's Connect
+<h2 align="center">🌐 Let's Connect</h2>
 
-Got an internship, an idea, or a project to build together? My inbox is open.
+<p align="center"><i>Got an internship, an idea, or a project to build together? My inbox is open. 📬</i></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/musab-iftikhar/">
@@ -179,6 +205,10 @@ Got an internship, an idea, or a project to build together? My inbox is open.
 -->
 
 <!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%AD%90;If+you+like+my+work%2C+drop+a+star+%F0%9F%92%AB" alt="Thanks for stopping by" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00C2FF&height=120&section=footer" alt="" />
 </p>
