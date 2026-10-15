@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" role="img" aria-label="Focus cards: building full-stack projects, learning DSA and AI/ML, open to internships">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#151a2e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00C2FF"/>
+      <stop offset="1" stop-color="#7B2FF7"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3DDC84"/>
+      <stop offset="1" stop-color="#00C2FF"/>
+    </linearGradient>
+  </defs>
+
+  <g font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif">
+    <!-- card 1 -->
+    <rect x="12" y="10" width="272" height="150" rx="18" fill="url(#bg)" stroke="#30363d"/>
+    <rect x="12" y="34" width="4" height="102" rx="2" fill="url(#accent)"/>
+    <text x="36" y="46" font-size="11" font-weight="700" letter-spacing="2.5" fill="#00C2FF">BUILDING</text>
+    <text x="36" y="78" font-size="21" font-weight="700" fill="#ffffff">Full-Stack Projects</text>
+    <text x="36" y="108" font-size="14" fill="#9da7b3">Real-world web apps with</text>
+    <text x="36" y="130" font-size="14" fill="#c9d1d9">React, Next.js &amp; Node.js</text>
+
+    <!-- card 2 -->
+    <rect x="314" y="10" width="272" height="150" rx="18" fill="url(#bg)" stroke="#30363d"/>
+    <rect x="314" y="34" width="4" height="102" rx="2" fill="url(#accent)"/>
+    <text x="338" y="46" font-size="11" font-weight="700" letter-spacing="2.5" fill="#C792EA">LEARNING</text>
+    <text x="338" y="78" font-size="21" font-weight="700" fill="#ffffff">DSA &amp; AI / ML</text>
+    <text x="338" y="108" font-size="14" fill="#9da7b3">Sharpening algorithms and</text>
+    <text x="338" y="130" font-size="14" fill="#c9d1d9">AI / ML fundamentals</text>
+
+    <!-- card 3 -->
+    <rect x="616" y="10" width="272" height="150" rx="18" fill="url(#bg)" stroke="#30363d"/>
+    <rect x="616" y="34" width="4" height="102" rx="2" fill="url(#green)"/>
+    <text x="640" y="46" font-size="11" font-weight="700" letter-spacing="2.5" fill="#3DDC84">OPEN TO</text>
+    <text x="640" y="78" font-size="21" font-weight="700" fill="#ffffff">Internships</text>
+    <text x="640" y="108" font-size="14" fill="#9da7b3">And collaboration. Let's</text>
+    <text x="640" y="130" font-size="14" fill="#c9d1d9">build something together.</text>
+    <circle cx="858" cy="42" r="5" fill="#3DDC84">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
