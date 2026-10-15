@@ -1,10 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C2FF,50:7B2FF7,100:FF2E97&height=260&section=header&text=Musab%20Iftikhar&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Future%20Software%20Engineer&descAlignY=60&descSize=20" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&multiline=false&width=820&height=60&lines=Hi+there%2C+I'm+Musab+%F0%9F%91%8B;BS+Software+Engineering+Student+(2023%E2%80%932027);Superior+University%2C+Lahore+%F0%9F%8E%93;I+build+things+for+the+web+%F0%9F%9A%80;Learning+%7C+Building+%7C+Growing+%F0%9F%8C%B1" />
+  <img src="assets/header.svg" alt="Musab Iftikhar - Full-Stack Developer terminal intro" width="100%"/>
 </p>
 
 <p align="center">
@@ -14,100 +10,67 @@
   <img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20PK-1DB954?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<!-- ================= QUICK NAV ================= -->
 <p align="center">
-  <a href="#about-me"><b>About</b></a> &nbsp;•&nbsp;
-  <a href="#tech-stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
-  <a href="#projects"><b>Projects</b></a> &nbsp;•&nbsp;
+  <a href="#player"><b>Player</b></a> &nbsp;•&nbsp;
+  <a href="#loadout"><b>Loadout</b></a> &nbsp;•&nbsp;
+  <a href="#quests"><b>Quests</b></a> &nbsp;•&nbsp;
   <a href="#stats"><b>Stats</b></a> &nbsp;•&nbsp;
-  <a href="#goals"><b>Goals</b></a> &nbsp;•&nbsp;
   <a href="#connect"><b>Connect</b></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<!-- ================= PLAYER CARD ================= -->
+<a id="player"></a>
+## 🎮 Player Profile
 
-<!-- ================= ABOUT ================= -->
-<a id="about-me"></a>
-## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```js
-const musab = {
-  name: "Musab Iftikhar",
-  role: "Software Engineering Student",
-  university: "Superior University, Lahore",
-  graduating: 2027,
-  loves: ["Web Dev", "AI", "Problem Solving"],
-  currentlyLearning: ["DSA", "AI/ML"],
-  building: "Real-world Full-Stack projects",
-  lookingFor: "Internships & Collaboration 🤝",
-  funFact: "I learn best by breaking things, then fixing them better ⚡"
-};
-```
-
-</td>
-<td width="45%" valign="top">
-
-- 🎓 BS Software Engineering @ **Superior University**
-- 💡 Passionate about **Web Development & AI**
-- 🧠 Sharpening my **Data Structures & Algorithms**
-- 🚀 Building **real-world Full-Stack** projects
-- 🤝 Open to **internships & collaboration**
-- 💬 Ask me about **React, Next.js, JS/TS**
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="assets/player-card.svg" alt="Player card: Musab Iftikhar, Full-Stack Mage, with skill stat bars" width="100%"/>
+</p>
 
 <details>
-<summary>🗂️ <b>Click for a quick fact sheet</b></summary>
+<summary>📜 <b>Character lore</b> (the longer story)</summary>
 <br/>
 
-| | |
-|---|---|
-| 🌍 **Based in** | Lahore, Pakistan |
-| 🎓 **Education** | BS Software Engineering, Superior University (2023–2027) |
-| 💻 **Currently building** | Full-stack web projects |
-| 🔭 **Currently learning** | DSA, AI/ML fundamentals |
-| 💬 **Ask me about** | React, Next.js, JavaScript/TypeScript, Web Dev |
-| 📫 **Reach me** | musabiftikhar44@gmail.com |
+- 🎓 Software Engineering student at **Superior University, Lahore** (2023–2027)
+- 💡 Obsessed with **Web Development & Artificial Intelligence**
+- 🧠 Grinding **Data Structures & Algorithms** every week
+- 🚀 Shipping **real-world full-stack projects**, not just tutorials
+- ⚡ Learns best by **breaking things, then fixing them better**
+- 💬 Ask me about **React, Next.js, JavaScript / TypeScript**
+- 📫 Reach me at **musabiftikhar44@gmail.com**
 
 </details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ask%20me%20about-React-00C2FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ask%20me%20about-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ask%20me%20about-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ask%20me%20about-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ask%20me%20about-DSA-7B2FF7?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+<details>
+<summary>💻 <b>Run my profile</b> (easter egg)</summary>
+<br/>
+
+```python
+class Musab:
+    role  = "Software Engineering Student"
+    stack = ["React", "Next.js", "TypeScript", "Node.js", "MongoDB", "Flutter"]
+    goal  = "Land a Software Engineering internship"
+
+    def learn(self):
+        while True:
+            self.build()
+            self.break_things()
+            self.fix_better()   # level up
+
+    def hire(self):
+        return "musabiftikhar44@gmail.com"
+```
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ================= PROGRESS ================= -->
-## 🧠 Currently Leveling Up
-
-<p align="center">
-  <img src="https://progress-bar.xyz/80/?title=Full-Stack%20Dev&width=300&color=00C2FF" /><br/>
-  <img src="https://progress-bar.xyz/65/?title=Data%20Structures%20%26%20Algorithms&width=300&color=7B2FF7" /><br/>
-  <img src="https://progress-bar.xyz/40/?title=AI%20%2F%20Machine%20Learning&width=300&color=FF2E97" /><br/>
-  <img src="https://progress-bar.xyz/30/?title=Open%20Source%20Contributions&width=300&color=1DB954" />
-</p>
-
-<p align="center"><sub>📝 Self-assessed — updated as I grow</sub></p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- ================= TECH STACK ================= -->
-<a id="tech-stack"></a>
-## 🧰 Tech Stack
+<!-- ================= LOADOUT ================= -->
+<a id="loadout"></a>
+## 🎒 Loadout
 
 <table align="center">
 <tr>
-<td align="center" width="170"><b>🖥️ Languages</b></td>
+<td align="center" width="170"><b>⚔️ Languages</b></td>
 <td><img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript&theme=dark" /></td>
 </tr>
 <tr>
@@ -134,34 +97,24 @@ const musab = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ================= PROJECTS ================= -->
-<a id="projects"></a>
-## 🚀 Featured Projects
+<!-- ================= QUESTS ================= -->
+<a id="quests"></a>
+## 🗺️ Quest Log
 
-<!--
-  HOW TO ENABLE: replace YOUR_REPO_1 / YOUR_REPO_2 with real repo names, then remove this comment wrapper.
-
-<p align="center">
-  <a href="https://github.com/MUXAB18/YOUR_REPO_1">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MUXAB18&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MUXAB18/YOUR_REPO_2">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MUXAB18&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
--->
-
-<p align="center">
-  <a href="https://github.com/MUXAB18?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse%20all%20my%20repositories-%E2%86%92-7B2FF7?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+| Quest | Status | Progress | Reward |
+|---|---|---|---|
+| 🏗️ Learn Full-Stack fundamentals | ✅ **Complete** | `▰▰▰▰▰▰▰▰▰▰` | Foundation unlocked |
+| 🧩 Master Data Structures & Algorithms | ⚔️ In progress | `▰▰▰▰▰▰▱▱▱▱` | Interview-ready brain |
+| 🛠️ Build 10+ professional projects | 🔨 In progress | `▰▰▰▱▱▱▱▱▱▱` | A portfolio that talks |
+| 🤖 Learn AI & Machine Learning | 📚 In progress | `▰▰▰▰▱▱▱▱▱▱` | New superpower |
+| 🌍 Contribute to Open Source | 🌱 Side quest | `▰▰▰▱▱▱▱▱▱▱` | Community XP |
+| 💼 **Land a Software Engineering internship** | 🎯 **MAIN QUEST** | `▰▰▱▱▱▱▱▱▱▱` | Level up in the real world |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ================= STATS ================= -->
 <a id="stats"></a>
-## 📊 GitHub Analytics
+## 📊 Battle Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=MUXAB18&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C2FF&icon_color=7B2FF7" />
@@ -183,31 +136,22 @@ const musab = {
 
 <!-- Optional: WakaTime weekly coding activity needs a WakaTime account plus the waka-readme GitHub Action to auto-update. Guide: https://github.com/athul/waka-readme -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MUXAB18/MUXAB18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
-<!-- ================= QUOTE ================= -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
-<!-- ================= GOALS ================= -->
-<a id="goals"></a>
-## 🎯 Current Goals
-
-- [x] ✅ Learn the fundamentals of Full-Stack Development
-- [ ] 🧩 Master Data Structures & Algorithms
-- [ ] 🏗️ Build 10+ professional-grade projects
-- [ ] 🌍 Contribute to Open Source
-- [ ] 🤖 Learn AI & Machine Learning
-- [ ] 💼 Land a Software Engineering internship
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- ================= CONNECT ================= -->
 <a id="connect"></a>
-## 🌐 Let's Connect
+## 📡 Press START to Connect
 
-<p align="center"><i>Got an idea, an internship, or a project to build together? My inbox is open. 📬</i></p>
+<p align="center"><i>Got an internship, an idea, or a project to build together? Player 2 is welcome. 🎮</i></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/musab-iftikhar/">
@@ -241,16 +185,9 @@ const musab = {
 </p>
 -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MUXAB18/MUXAB18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%AD%90;If+you+like+my+work%2C+drop+a+star+%F0%9F%92%AB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%AD%90;If+you+like+my+work%2C+drop+a+star+%F0%9F%92%AB;GAME+ON+%F0%9F%8E%AE" />
 </p>
 
 <p align="center">
