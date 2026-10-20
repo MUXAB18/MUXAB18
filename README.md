@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-   <img
-    src="https://komarev.com/ghpvc/?username=MUXAB18&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge"
-    alt="Musab's GitHub profile views"
+  <img
+    src="https://hits.sh/github.com/MUXAB18.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7B2FF7"
+    alt="GitHub profile views"
   />
   <img src="https://img.shields.io/github/followers/MUXAB18?label=FOLLOWERS&style=for-the-badge&color=00C2FF&logo=github&logoColor=white"
        alt="GitHub followers" />
