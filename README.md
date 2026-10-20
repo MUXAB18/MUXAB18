@@ -7,8 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MUXAB18&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge"
-       alt="Profile views" />
+   <img
+    src="https://komarev.com/ghpvc/?username=MUXAB18&label=PROFILE%20VIEWS&color=7B2FF7&style=for-the-badge"
+    alt="Musab's GitHub profile views"
+  />
   <img src="https://img.shields.io/github/followers/MUXAB18?label=FOLLOWERS&style=for-the-badge&color=00C2FF&logo=github&logoColor=white"
        alt="GitHub followers" />
   <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-3DDC84?style=for-the-badge"
