@@ -113,25 +113,7 @@
 </p>
 
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-<h2 align="center">📈 Contribution Activity</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=MUXAB18&show_icons=true&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub contribution and repository statistics"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/MUXAB18?tab=overview">
-    <img
-      src="https://img.shields.io/badge/VIEW-GITHUB%20CONTRIBUTIONS-7B2FF7?style=for-the-badge&logo=github&logoColor=white"
-      alt="View GitHub contributions"
-    />
-  </a>
-</p>
 
 <!-- ================= CONNECT ================= -->
 <h2 align="center">🌐 Let's Connect</h2>
