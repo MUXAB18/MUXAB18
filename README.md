@@ -112,13 +112,25 @@
        alt="Most used programming languages" />
 </p>
 
+
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=MUXAB18&bg_color=1a1b27&color=70a5fd&line=7B2FF7&point=00C2FF&area=true&hide_border=true"
-       alt="GitHub contribution activity graph" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=MUXAB18&show_icons=true&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub contribution and repository statistics"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/MUXAB18?tab=overview">
+    <img
+      src="https://img.shields.io/badge/VIEW-GITHUB%20CONTRIBUTIONS-7B2FF7?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub contributions"
+    />
+  </a>
 </p>
 
 <!-- ================= CONNECT ================= -->
