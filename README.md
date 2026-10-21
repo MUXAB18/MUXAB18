@@ -1,18 +1,18 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="assets/header.svg" alt="Musab Iftikhar — Full-Stack Developer & Software Engineering Student" width="100%" />
+  <img src="assets/header.svg" alt="Musab Iftikhar — Software Engineer & Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MUXAB18">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Software+Engineering+Student;Building+Web+and+Mobile+Apps;Open+to+Internships" alt="Full-Stack Developer, Software Engineering Student, Building Web and Mobile Apps, Open to Internships" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Building+Web+and+Mobile+Apps;Open+to+Opportunities" alt="Software Engineer, Full-Stack Developer, Building Web and Mobile Apps, Open to Opportunities" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://hits.sh/github.com/MUXAB18.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7B2FF7" alt="GitHub profile views" />
   <img src="https://img.shields.io/github/followers/MUXAB18?label=FOLLOWERS&style=for-the-badge&color=00C2FF&logo=github&logoColor=white" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-3DDC84?style=for-the-badge" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-3DDC84?style=for-the-badge" alt="Open to opportunities" />
 </p>
 
 ---
@@ -21,22 +21,22 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  Hi, I'm <b>Musab Iftikhar</b> — a developer who loves turning ideas into real, working products.<br/>
-  I build <b>web & mobile applications</b>, solve problems, and learn by doing.
+  Hi, I'm <b>Musab Iftikhar</b> — a <b>Software Engineer</b> who turns ideas into real, working products.<br/>
+  I specialise in <b>full-stack web & mobile applications</b> — clean, fast, and built to ship.
 </p>
 
 <table align="center">
   <tr>
-    <td>🎓</td>
-    <td><b>BS Software Engineering</b> — Superior University, Lahore (2023–2027)</td>
+    <td>💻</td>
+    <td><b>Software Engineer</b> — Full-Stack Developer building web & mobile applications</td>
   </tr>
   <tr>
     <td>🔭</td>
-    <td>Final Year Project: <b>TradeMatch</b> — an AI job copilot for skilled workers</td>
+    <td>Currently Building: <b>TradeMatch</b> — an AI job copilot for skilled workers</td>
   </tr>
   <tr>
     <td>💼</td>
-    <td>Currently looking for <b>internship opportunities</b> to work on real-world projects</td>
+    <td>Available for <b>freelance projects, collaborations</b> and new opportunities</td>
   </tr>
   <tr>
     <td>🌐</td>
@@ -162,7 +162,7 @@
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
-  <i>Have an internship opportunity, an idea, or a project to build together? Let's connect.</i>
+  <i>Have a project, a role, or an idea to build together? Let's connect.</i>
 </p>
 
 <p align="center">
