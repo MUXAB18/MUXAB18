@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>🔭</td>
-    <td>Final Year Project: <b>Monarch</b> — a desktop app that automates AI content creation & publishing to YouTube, TikTok, Instagram & Facebook</td>
+    <td>Final Year Project: <b>TradeMatch</b> — an AI job copilot for skilled workers</td>
   </tr>
   <tr>
     <td>💼</td>
