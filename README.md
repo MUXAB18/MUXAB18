@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="assets/header.svg" alt="Musab Iftikhar — Software Engineer & Full-Stack Developer" width="100%" />
+  <img src="assets/header.svg?v=3" alt="Musab Iftikhar — Software Engineer & Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 </table>
 
 <p align="center">
-  <img src="assets/player-card.svg" alt="Player card: Musab Iftikhar, profile details and skill bars" width="85%" />
+  <img src="assets/player-card.svg?v=3" alt="Developer profile card: Musab Iftikhar, profile details and skill bars" width="85%" />
 </p>
 
 ---
