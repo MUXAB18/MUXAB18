@@ -93,11 +93,11 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
+  <a href="https://github.com/MUXAB18/RCI-WEAR">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MUXAB18&repo=RCI-WEAR&theme=tokyonight&hide_border=true&title_color=00C2FF" alt="RCI Wear repository" />
+  </a>
   <a href="https://github.com/MUXAB18/LMS">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MUXAB18&repo=LMS&theme=tokyonight&hide_border=true&title_color=00C2FF" alt="LMS repository" />
-  </a>
-  <a href="https://github.com/MUXAB18/rasheedclothingintl">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=MUXAB18&repo=rasheedclothingintl&theme=tokyonight&hide_border=true&title_color=00C2FF" alt="Rasheed Clothing International repository" />
   </a>
 </p>
 <p align="center">
@@ -115,12 +115,12 @@
     <th>What it is</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/MUXAB18/LMS"><b>LMS</b></a></td>
-    <td>Learning Management System — full-stack web app (Node.js backend + frontend, MongoDB)</td>
+    <td><a href="https://github.com/MUXAB18/RCI-WEAR"><b>RCI Wear</b></a></td>
+    <td>Rasheed Clothing International — premium custom clothing brand, marketing & e-commerce web app (React 18 + Vite)</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/MUXAB18/rasheedclothingintl"><b>Rasheed Clothing Intl</b></a></td>
-    <td>Website for a premium custom clothing brand — “Where Imagination Meets Fabrication”</td>
+    <td><a href="https://github.com/MUXAB18/LMS"><b>LMS</b></a></td>
+    <td>Learning Management System — full-stack web app (Node.js backend + frontend, MongoDB)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/MUXAB18/PORTFOLIO"><b>Portfolio</b></a></td>
