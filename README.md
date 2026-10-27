@@ -49,7 +49,7 @@
 </table>
 
 <p align="center">
-  <img src="assets/player-card.svg?v=3" alt="Developer profile card: Musab Iftikhar, profile details and skill bars" width="85%" />
+  <img src="assets/player-card-final.svg?v=3" alt="Developer profile card: Musab Iftikhar, profile details and skill bars" width="85%" />
 </p>
 
 ---
